@@ -18,5 +18,5 @@
 #++
 
 module ReportingEngine
-  VERSION = "6.0.5"
+  VERSION = "6.0.6"
 end
